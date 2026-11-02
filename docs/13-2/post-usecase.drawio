@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="8ZFfAPYoqZaryi-VAkeN">
+    <mxGraphModel dx="732" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="THtdNc388pfiXEOzGLxR-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="訪問者" vertex="1">
+          <mxGeometry height="170" width="80" x="90" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="300" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ユーザー登録" vertex="1">
+          <mxGeometry height="40" width="280" x="250" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ログイン" vertex="1">
+          <mxGeometry height="40" width="280" x="250" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ログアウト" vertex="1">
+          <mxGeometry height="40" width="280" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿の一覧表示" vertex="1">
+          <mxGeometry height="40" width="280" x="250" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="自分の投稿の編集" vertex="1">
+          <mxGeometry height="40" width="280" x="250" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="自分の投稿の削除" vertex="1">
+          <mxGeometry height="40" width="280" x="250" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ログイン済み利用者" vertex="1">
+          <mxGeometry height="170" width="80" x="630" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-13" edge="1" parent="1" source="THtdNc388pfiXEOzGLxR-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="THtdNc388pfiXEOzGLxR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-15" edge="1" parent="1" source="THtdNc388pfiXEOzGLxR-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="THtdNc388pfiXEOzGLxR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-16" edge="1" parent="1" source="THtdNc388pfiXEOzGLxR-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.974;entryY=0.715;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="THtdNc388pfiXEOzGLxR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-17" edge="1" parent="1" source="THtdNc388pfiXEOzGLxR-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="THtdNc388pfiXEOzGLxR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-18" edge="1" parent="1" source="THtdNc388pfiXEOzGLxR-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.974;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="THtdNc388pfiXEOzGLxR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="THtdNc388pfiXEOzGLxR-19" edge="1" parent="1" source="THtdNc388pfiXEOzGLxR-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.957;entryY=0.275;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="THtdNc388pfiXEOzGLxR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
