@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="YpahAdqyh01QxNu_9jOv">
+    <mxGraphModel dx="1030" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-6" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;entryX=0.177;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ci_caKNoAQ3_9t0vSlla-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="100" as="sourcePoint" />
+            <mxPoint x="100" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-22" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「ログイン」&lt;div&gt;を押す&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7595" as="geometry">
+            <mxPoint x="-30" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="トップ画面" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー登録画面" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-9" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.12;entryY=1.057;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;entryPerimeter=0;" target="Ci_caKNoAQ3_9t0vSlla-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-26" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「アカウント&lt;div&gt;を作成」&lt;/div&gt;&lt;div&gt;を押す&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.5421" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ログイン画面" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿編集画面" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿一覧表示画面" vertex="1">
+          <mxGeometry height="90" width="200" x="400" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-7" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-23" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「アカウントを作成」&lt;div&gt;を押す&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3031" y="-3" as="geometry">
+            <mxPoint x="44" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-8" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-25" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「ログイン」&lt;div&gt;を押す&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0268" y="-2" as="geometry">
+            <mxPoint x="5" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-10" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-19" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="ログアウト" vertex="1">
+          <mxGeometry relative="1" x="0.2595" as="geometry">
+            <mxPoint x="22" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-11" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-20" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「削除」を押す" vertex="1">
+          <mxGeometry relative="1" x="0.2947" y="-1" as="geometry">
+            <mxPoint x="54" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-12" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-5" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.857;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-17" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「編集」を押す" vertex="1">
+          <mxGeometry relative="1" x="0.1183" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-13" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.326;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-21" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="編集内容を決定" vertex="1">
+          <mxGeometry relative="1" x="-0.3432" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-14" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.126;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="Ci_caKNoAQ3_9t0vSlla-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-27" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="ログイン" vertex="1">
+          <mxGeometry relative="1" x="-0.2551" y="-2" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-15" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201.2" y="50.00468315301394" as="sourcePoint" />
+            <mxPoint x="399.99999999999994" y="51.71000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-18" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="「タイムラインへ」を押す" vertex="1">
+          <mxGeometry relative="1" x="-0.3057" y="-2" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-16" edge="1" parent="1" source="Ci_caKNoAQ3_9t0vSlla-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="Ci_caKNoAQ3_9t0vSlla-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci_caKNoAQ3_9t0vSlla-24" connectable="0" parent="Ci_caKNoAQ3_9t0vSlla-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="ユーザー登録完了" vertex="1">
+          <mxGeometry relative="1" x="-0.6462" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
